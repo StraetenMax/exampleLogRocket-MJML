@@ -12,11 +12,15 @@
         <mj-section background-color="#f0f0f0" background-size="cover" background-repeat="no-repeat" background-url="https://ca-times.brightspotcdn.com/dims4/default/2af165c/2147483647/strip/true/crop/2048x1363+0+0/resize/1440x958!/quality/90/?url=https%3A%2F%2Fwww.trbimg.com%2Fimg-4f561d37%2Fturbine%2Forl-disneyfantasy720120306062055">
             <mj-column width="600px">
                 <mj-text align="center" color="#ffffff" font-size="40px" font-family="Helvetica Neue">Christmas Discount</mj-text>
-                <mj-button background-color="#f63A4D" href="#">Ses Promotions</mj-button>
+                <mj-button padding-left="0" padding-right="0" background-color="#f63A4D" href="#">Ses Promotions</mj-button>
             </mj-column>
         </mj-section>
         <!--Email Introduction-->
-        <mj-section background-color="#fafafa"></mj-section>
+        <mj-section background-color="#fafafa">
+            <mj-column width="400px">
+                <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262">Ultimate Christmas Experience</mj-text>
+            </mj-column>
+        </mj-section>
         <!--Columns section-->
         <mj-section background-color="#ffffff"></mj-section>
         <!--Icons-->
