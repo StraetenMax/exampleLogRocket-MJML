@@ -1,0 +1,16 @@
+<mjml>
+    <mj-body>
+        <!--Company Header-->
+        <mj-section background-color="#f0f0f0"></mj-section>
+        <!--Image Header-->  
+        <mj-section background-color="#f0f0f0"></mj-section>
+        <!--Email Introduction-->
+        <mj-section background-color="#fafafa"></mj-section>
+        <!--Columns section-->
+        <mj-section background-color="#ffffff"></mj-section>
+        <!--Icons-->
+        <mj-section background-color="#fbfbfb"></mj-section>
+        <!--Social icons-->
+        <mj-section background-color="#f0f0f0"></mj-section>
+    </mj-body>
+</mjml>
