@@ -3,7 +3,7 @@
         <mj-title>Christmas Discount</mj-title>
         <mj-attributes>
             <mj-image border="0"/>
-            <mj-class name="Dtitle" font-family="Bitter, serif"/>
+            <mj-class name="Dtitle" font-family="Bitter, serif" color="#ffffff" font-weight="700" font-size="40px" line-height="140%"/>
             <mj-class name="Dtitle2" font-family="Bitter, serif" color="#626262" font-size="20px" line-height="140%" font-weight="700"/>
             <mj-class name="Dtext" font-family="Arial, sans-serif" color="#525252" font-size="14px" font-weight="400" line-height="140%"/>
         </mj-attributes>

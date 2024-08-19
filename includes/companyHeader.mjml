@@ -1,7 +1,7 @@
 <!--Company Header-->
 <mj-section background-color="#f0f0f0">
     <mj-column>
-        <mj-text font-family="Arial,sans-serif" font-weight="700" font-size="20px" align="center" color="#626262">
+        <mj-text font-family="Arial,sans-serif" font-weight="400" font-size="20px" align="center" color="#626262">
                 Central Park Cruise
         </mj-text>
     </column>
