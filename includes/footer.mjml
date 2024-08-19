@@ -7,5 +7,8 @@
             <mj-social-element name="facebook" href="#"></mj-social-element>
             <mj-social-element name="linkedin" href="#"></mj-social-element>
         </mj-social>
+        <mj-text align="center" padding-bottom="0px" mj-class="Dstext"><span style="font-weight:700;">© 2024 Central Park Cruise</span> - 235 rue Nationale 59000 Lille - France</mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px" align="center" mj-class="Dstext">Vous avez reçu cet e-mail car vous vous êtes enregistré sur notre site web.</mj-text>
+        <mj-text padding-top="0px" align="center" mj-class="Dstext"><span style="text-decoration:underline">Cliquez ici</span> pour vous désabonner.</mj-text>
     </mj-column>
 </mj-section>

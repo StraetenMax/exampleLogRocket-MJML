@@ -6,10 +6,22 @@
             <mj-class name="Dtitle" font-family="Bitter, serif" color="#ffffff" font-weight="700" font-size="40px" line-height="140%"/>
             <mj-class name="Dtitle2" font-family="Bitter, serif" color="#626262" font-size="20px" line-height="140%" font-weight="700"/>
             <mj-class name="Dtext" font-family="Arial, sans-serif" color="#525252" font-size="14px" font-weight="400" line-height="140%"/>
+            <mj-class name="Dstext" font-family="Arial, sans_serif" color="#626262" font-size="10px" font-weight="400" line-height="140%"/>
+            <mj-class name="Dbutton" font-family="Arial, sans-serif" color="#ffffff" font-size="14px"font-weight="400" line-height="140%"/> 
         </mj-attributes>
-        <mj-font  name="Bitter" href="https://fonts.googleapis.com/css2?family=Bitter">
+        <mj-font name="Bitter" href="https://fonts.googleapis.com/css2?family=Bitter"/>
+        <mj-style>
+             .hot:hover td, .hot:hover a{
+                background-color: #b84dff !important;
+            }
+        </mj-style>
     </mj-head>
     <mj-body background-color="#ffffff">
+        <mj-section padding="0">
+            <mj-column>
+                <mj-text align="center" mj-class="Dstext" text-decoration="underline"> Afficher la version en ligne</mj-text>
+            </mj-column>
+        </mj-section>
         <!--Company Header-->
         <mj-include path="./includes/companyHeader.mjml" />
         <!-- Image Header-->

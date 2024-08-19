@@ -3,6 +3,6 @@
     <mj-column width="400px">
         <mj-text mj-class="Dtitle2">Ultimate Christmas Experience</mj-text>
         <mj-text mj-class="Dtext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.</mj-text>
-        <mj-button background-color="#F45E43" href="#">Learn more</mj-button>
+        <mj-button background-color="#F45E43" css-class="hot" href="#" mj-class="Dbutton">Learn more</mj-button>
     </mj-column>
 </mj-section>
