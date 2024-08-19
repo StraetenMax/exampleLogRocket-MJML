@@ -19,10 +19,22 @@
         <mj-section background-color="#fafafa">
             <mj-column width="400px">
                 <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262">Ultimate Christmas Experience</mj-text>
+                <mj-text color="#525252" line-height="140%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.</mj-text>
+                <mj-button background-color="#F45E43" href="#">Learn more</mj-button>
             </mj-column>
         </mj-section>
         <!--Columns section-->
-        <mj-section background-color="#ffffff"></mj-section>
+        <mj-section background-color="#ffffff">
+            <!--Left image-->
+            <mj-column>
+                <mj-image width="200px" src="https://navis-consulting.com/wp-content/uploads/2019/09/Cruise1-1.png">
+            </mj-column>
+            <!--Right paragraph-->
+            <mj-column>
+                <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262">Amazing Experiences</mj-text>
+                <mj-text color="#525252" line-height="140%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.</mj-text>
+            </mj-column>
+        </mj-section>
         <!--Icons-->
         <mj-section background-color="#fbfbfb"></mj-section>
         <!--Social icons-->
