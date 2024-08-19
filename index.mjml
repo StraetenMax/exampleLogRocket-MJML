@@ -49,14 +49,14 @@
         </mj-section>
         <!--Social icons-->
         <mj-section background-color="#f0f0f0">
-        <mj-column>
-            <mj-social mode="horizontal">
-                <mj-social-element name="instagram" />
-                <mj-social-element name="twitter" />
-                <mj-social-element name="facebook" />
-                <mj-social-element name="linkedin" />
-            </mj-social>
-        </mj-column>
+            <mj-column>
+                <mj-social inner-padding="10px" icon-size="30px" mode="horizontal">
+                    <mj-social-element name="twitter"  href="#"></mj-social-element>
+                    <mj-social-element name="instagram" href="#"></mj-social-element>
+                    <mj-social-element name="facebook" href="#"></mj-social-element>
+                    <mj-social-element name="linkedin" href="#"></mj-social-element>
+                </mj-social>
+            </mj-column>
         </mj-section>
     </mj-body>
 </mjml>
