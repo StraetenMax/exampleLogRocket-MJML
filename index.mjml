@@ -10,39 +10,10 @@
         <!--Email Introduction-->
         <mj-include path="./includes/emailIntroduction.mjml" />
         <!--Columns section-->
-        <mj-section background-color="#ffffff">
-            <!--Left image-->
-            <mj-column>
-                <mj-image width="200px" src="https://navis-consulting.com/wp-content/uploads/2019/09/Cruise1-1.png">
-            </mj-column>
-            <!--Right paragraph-->
-            <mj-column>
-                <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262">Amazing Experiences</mj-text>
-                <mj-text color="#525252" line-height="140%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.</mj-text>
-            </mj-column>
-        </mj-section>
+        <mj-include path="./includes/columnSection.mjml"/>
         <!--Icons-->
-        <mj-section background-color="#fbfbfb">
-            <mj-column>
-                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png"/>
-            </mj-column>
-            <mj-column>
-                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x01.png"/>
-            </mj-column>
-            <mj-column>
-                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0s.png"/>
-            </mj-column>
-        </mj-section>
+        <mj-include path="./includes/icons.mjml"/>
         <!--Social icons-->
-        <mj-section background-color="#f0f0f0">
-            <mj-column>
-                <mj-social inner-padding="10px" icon-size="30px" mode="horizontal">
-                    <mj-social-element name="twitter"  href="#"></mj-social-element>
-                    <mj-social-element name="instagram" href="#"></mj-social-element>
-                    <mj-social-element name="facebook" href="#"></mj-social-element>
-                    <mj-social-element name="linkedin" href="#"></mj-social-element>
-                </mj-social>
-            </mj-column>
-        </mj-section>
+        <mj-include path="./includes/footer.mjml"/>
     </mj-body>
 </mjml>
