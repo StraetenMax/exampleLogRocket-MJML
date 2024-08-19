@@ -1,0 +1,7 @@
+ <!-- Image Header-->
+<mj-section background-url="https://navis-consulting.com/wp-content/uploads/2019/09/Cruise1-1.png" background-size="cover" background-repeat="no-repeat">
+    <mj-column width="100%">
+        <mj-text padding-top="50px"  align="center" color="#ffffff" font-size="40px" font-family="Helvetica Neue">Christmas Discount</mj-text>
+        <mj-button padding-left="0" padding-right="0" padding-bottom="50px" background-color="#F63A4D" href="#">See Promotions</mj-button>
+    </mj-column>
+</mj-section>
