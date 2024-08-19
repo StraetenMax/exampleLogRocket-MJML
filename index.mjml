@@ -9,7 +9,7 @@
             </column>
         </mj-section>
         <!--Image Header-->
-        <mj-section background-color="#f0f0f0" background-size="cover" background-repeat="no-repeat" background-url="https://ca-times.brightspotcdn.com/dims4/default/2af165c/2147483647/strip/true/crop/2048x1363+0+0/resize/1440x958!/quality/90/?url=https%3A%2F%2Fwww.trbimg.com%2Fimg-4f561d37%2Fturbine%2Forl-disneyfantasy720120306062055">
+        <mj-section background-color="#f0f0f0" background-size="cover" background-repeat="no-repeat" background-url="https://ca-times.brightspotcdn.com/dims4/default/2af165c/2147483647/strip/true/crop/2048x1363+0+0/resize/1440x958!/quality/90/?url=https://3A2F2Fwww.trbimg.com%2Fimg-4f561d37%2Fturbine%2Forl-disneyfantasy720120306062055">
             <mj-column width="600px">
                 <mj-text align="center" color="#ffffff" font-size="40px" font-family="Helvetica Neue">Christmas Discount</mj-text>
                 <mj-button padding-left="0" padding-right="0" background-color="#f63A4D" href="#">Ses Promotions</mj-button>
@@ -36,8 +36,27 @@
             </mj-column>
         </mj-section>
         <!--Icons-->
-        <mj-section background-color="#fbfbfb"></mj-section>
+        <mj-section background-color="#fbfbfb">
+            <mj-column>
+                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x01.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0s.png"/>
+            </mj-column>
+        </mj-section>
         <!--Social icons-->
-        <mj-section background-color="#f0f0f0"></mj-section>
+        <mj-section background-color="#f0f0f0">
+        <mj-column>
+            <mj-social mode="horizontal">
+                <mj-social-element name="instagram" />
+                <mj-social-element name="twitter" />
+                <mj-social-element name="facebook" />
+                <mj-social-element name="linkedin" />
+            </mj-social>
+        </mj-column>
+        </mj-section>
     </mj-body>
 </mjml>
